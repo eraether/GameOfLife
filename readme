@@ -1,0 +1,22 @@
+An example run:
+
+C:\Users\Eugene\Desktop\Programming Blog\Conway's Game of Life\src>java -jar Rae
+therConwayGOL.jar width=100 height=100 type=random livingrules=f,f,t,t,f,f,f,f,f
+ reanimaterules=f,f,f,t,f,f,f,f,f
+Conway's Game of Life v1.00 by Eugene Raether
+
+
+SETTINGS
+Board size set to 100x100 (set with width=, height=)
+Living Rules:[false,false,true,true,false,false,false,false,false] (set with liv
+ingrules=f,f,t,t,f...)
+Reanimate Rules:[false,false,false,true,false,false,false,false,false] (set with
+ reanimaterules=f,f,f,t,f,...)
+Board type is random (set with type=[checkerboard, random])
+
+CONTROLS
+Click to edit board, space to start/stop simulation, right arrow to simulate 1 f
+rame, 'p' to regenerate color palette, 's' to save current display buffer, hold
+alt while hovering over the display to zoom in
+Saved screenshot to C:\Users\Eugene\Desktop\Programming Blog\Conway's Game of Li
+fe\src\1355034591992.png
