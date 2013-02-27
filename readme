@@ -1,5 +1,5 @@
-An example run:
-
+Programmed in pure Java. The program generates a random palatte to be used for rendering the current game state. The rules and size of the board are also variable, allowing the user to create entirely new organisms by specifying when cells should live or die based on their neighbors.
+Output of the console for a sample run, using the default rules for Conway's game of life. You can read more on wikipedia.
 C:\Users\Eugene\Desktop\Programming Blog\Conway's Game of Life\src>java -jar Rae
 therConwayGOL.jar width=100 height=100 type=random livingrules=f,f,t,t,f,f,f,f,f
  reanimaterules=f,f,f,t,f,f,f,f,f
